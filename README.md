@@ -14,6 +14,7 @@ Ardi adalah seorang admin platform online course yang membutuhkan aplikasi web s
 - Melihat daftar materi dalam sebuah kursus.
 - Mengedit informasi materi seperti judul, deskripsi, dan link embed materi.
 - Menghapus materi yang tidak relevan dalam sebuah kursus.
+
 Tugas Anda sebagai web developer adalah membuat aplikasi web sesuai dengan kebutuhan Ardi. Gunakan teknologi dan bahasa pemrograman yang Anda kuasai untuk menciptakan antarmuka yang responsif dan mudah digunakan.
 
 ### Materi Didalam Kursus
