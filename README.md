@@ -1,6 +1,7 @@
 # Hasnur-Webdev-Internship-Project
 
-Project Untuk Seleksi Magang Kampus Merdeka BATCH 5 Pada Perusahaan Hasnur Centre Menggunakan PHP Native
+Internship Project Untuk Seleksi Magang Kampus Merdeka BATCH 5 Pada Perusahaan Hasnur Centre Menggunakan PHP Native
+
 <img src="https://i.ibb.co/bmnMWVr/Homepage.png" alt="Homepage" border="0">
 
 ## Soal:
